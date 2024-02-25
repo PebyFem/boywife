@@ -14,7 +14,7 @@ social:
 
   - name: Discord
     icon: FaDiscord
-    link: https://discord.com
+    link: https://discordapp.com/users/1124873286124314654
 ---
 
 Polish Cunny Boywife Femboy
