@@ -108,7 +108,7 @@ When it cools down turn baking sheet pan over a fresh new baking sheet
 Gently spread creme over cake and roll
 
 <Notice type="tip">
-  If your cream is too liquidy or it dissolved a little because cake was still warm, but it in fridge for an hour or two
+  If your cream is too liquidy or it dissolved a little because cake was still warm, put it in fridge for an hour or two
 </Notice>
 
 </Tab>
