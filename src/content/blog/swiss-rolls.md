@@ -1,7 +1,7 @@
 ---
 title: "Swiss rolls"
 meta_title: ""
-description: "Easy fast recipy"
+description: "Easy fast recipe"
 date: 2024-02-24T04:00:00Z
 image: "/images/swiss-rolls.jpg"
 categories: ["Cooking", "Pasteries"]
@@ -11,9 +11,9 @@ draft: false
 ---
 
 As a first part of *"cooking something new every month"* this year, I chose **swiss rolls**, because they seemed easy and relatively fast. And if you don't do silly mistakes as I did, it should turn out perfectly :3
-I will give here recipy that I slightly changed to my liking as also a source of original when I got it. This is first kind of post like that so let me know on twitter if everything is alright &gt;///&lt;
+I will give here recipe that I slightly changed to my liking as also a source of original when I got it. This is first kind of post like that so let me know on twitter if everything is alright &gt;///&lt;
 
-### Recipy
+### Recipe
 
 <Accordion title="Overall Ingredients">
 
@@ -66,7 +66,7 @@ In **first bowl** start whisking egg whites and sugars until medium peaks (it be
 
 In **second bowl** whisk egg yolks, butter (remember to brown it!), water and salt
 
-When both bowls are well mixed, add **first bowl** to second and fold them together while slowly adding flour to avoid lumps
+When both bowls are well mixed, add **first bowl** to second and fold them **gently** together while **slowly** adding flour to avoid lumps and keep it fluffy
 
 #### Bake
 
@@ -126,5 +126,5 @@ Time: Around an hour
 <Notice type="note">
   This photo belongs to: [kitchencookbook](https://kitchencookbook.net/vanilla-swiss-roll/)
 
-  Original recipy: [banjaminthebaker](https://www.youtube.com/watch?v=RzkOkTtNdQg)
+  Original recipe: [banjaminthebaker](https://www.youtube.com/watch?v=RzkOkTtNdQg)
 </Notice>
