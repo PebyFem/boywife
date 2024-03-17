@@ -115,13 +115,13 @@ Gently spread creme over cake and roll
 
 </Tabs>
 
-And that's it basically, I don't really have time to add more features to the page, so I will edit it later, but:
+<Notice type="rating">
+Peby taste rate : 8/10🧁
 
-Peby taste rate : 8/10
-
-Peby difficulty rate : 4/10
+Peby difficulty rate : 4/10🧁
 
 Time: Around an hour
+</Notice>
 
 <Notice type="note">
   This photo belongs to: [kitchencookbook](https://kitchencookbook.net/vanilla-swiss-roll/)
