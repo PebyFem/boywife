@@ -72,6 +72,11 @@
     @apply text-[#DB2C23];
     @apply border-current;
   }
+
+  &.rating {
+    @apply text-[#FFF700];
+    @apply border-current;
+  }
 }
 
 // swiper pagination
