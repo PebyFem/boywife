@@ -4,7 +4,7 @@ meta_title: ""
 description: "Easy fast recipe"
 date: 2024-03-10T04:00:00Z
 image: "/images/creme-brulee.png"
-categories: ["Cooking", "Pasteries"]
+categories: ["Cooking", "Custard"]
 author: "Peby"
 tags: ["Peby", "2024 challange"]
 draft: false
