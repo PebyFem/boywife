@@ -14,7 +14,7 @@ As a second part of *"cooking something new every month"* this year, I chose **C
 
 Surprisingly it was very easy, you just need to carefully do a few steps
 
-I will give here recipe that I slightly changed to my liking as also a source of original when I got it.
+I will give here recipe that I slightly changed to my liking as also a source of original where I got it.
 
 <Notice type="tip">
   Even tho you can use grill in your oven I highly recommend using kitchen torch and if you don't have one then buy it, because you have much more control over it

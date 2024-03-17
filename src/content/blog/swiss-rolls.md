@@ -4,14 +4,14 @@ meta_title: ""
 description: "Easy fast recipe"
 date: 2024-02-24T04:00:00Z
 image: "/images/swiss-rolls.jpg"
-categories: ["Cooking", "Pasteries"]
+categories: ["Cooking", "Cake"]
 author: "Peby"
 tags: ["Peby", "2024 challange"]
 draft: false
 ---
 
 As a first part of *"cooking something new every month"* this year, I chose **swiss rolls**, because they seemed easy and relatively fast. And if you don't do silly mistakes as I did, it should turn out perfectly :3
-I will give here recipe that I slightly changed to my liking as also a source of original when I got it. This is first kind of post like that so let me know on twitter if everything is alright &gt;///&lt;
+I will give here recipe that I slightly changed to my liking as also a source of original where I got it. This is first kind of post like that so let me know on twitter if everything is alright &gt;///&lt;
 
 ### Recipe
 
